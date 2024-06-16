@@ -1,6 +1,6 @@
 ## Project Scenario
 
-[Coursera Project](https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json/home/welcome)
+[Coursera Project](https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json)
 
 ### Technologies Used
 
