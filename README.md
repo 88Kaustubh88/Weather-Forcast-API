@@ -30,7 +30,7 @@ Here are some of the key methods and functions used in the project code:
 
 ## App Screenshot
 
-![App Screenshot](https://github.com/88kaustubh88/____________.png)
+![App Screenshot](https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.png)
 
 ## Getting Started
 
