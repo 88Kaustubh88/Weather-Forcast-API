@@ -1,6 +1,6 @@
 ## Project Scenario
 
-[Coursera Project](https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json)
+[Coursera Project](https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json/home/welcome)
 
 ### Technologies Used
 
@@ -30,7 +30,7 @@ Here are some of the key methods and functions used in the project code:
 
 ## App Screenshot
 
-![App Screenshot](https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.png)
+![App Screenshot][(https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.pngf)]
 
 ## Getting Started
 
@@ -39,8 +39,8 @@ To explore this project and its functionalities, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/88kaustubh88/Weather-Forcast-API.git
-   ```
+   git clone 
+   ```https://github.com/88Kaustubh88/Weather-Forecast-API
 
 2. Open the `index.html` file in your preferred web browser to access the weather forecast webpage.
 
@@ -52,4 +52,7 @@ Feedback, bug reports, and contributions are highly encouraged and appreciated. 
 
 ## Authors
 
-- [Kaustubh](https://github.com/88kaustubh88/)
+- [Kaustubh](https://github.com/88Kaustubh88)
+
+
+[def]: https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.png
