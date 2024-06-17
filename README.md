@@ -1,6 +1,6 @@
 ## Project Scenario
 
-[Coursera Project](https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json/home/welcome)
+[Coursera Project](https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json)
 
 ### Technologies Used
 
@@ -30,7 +30,7 @@ Here are some of the key methods and functions used in the project code:
 
 ## App Screenshot
 
-![App Screenshot][(https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.pngf)]
+![App Screenshot](https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.png)
 
 ## Getting Started
 
@@ -53,6 +53,3 @@ Feedback, bug reports, and contributions are highly encouraged and appreciated. 
 ## Authors
 
 - [Kaustubh](https://github.com/88Kaustubh88)
-
-
-[def]: https://github.com/88Kaustubh88/Weather-Forecast-API/blob/main/Screenshot.png
